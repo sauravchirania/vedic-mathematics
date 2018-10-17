@@ -1,6 +1,10 @@
 # Vedic Mathematics
 The project implements Vedic mathematical algorithms in C++ and python
 
+**add.py -**
+It takes two numbers as input and returns the sum of the numbers as output.
+The inputs can have any number of digits.
+
 **multiply1.py -**
 It takes two numbers as input and returns the product of the numbers as output.
 The inputs can have any number of digits.
